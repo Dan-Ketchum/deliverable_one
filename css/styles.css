@@ -42,7 +42,8 @@ color: #ff5c0f;
 cursor: pointer;
 }
 .button1 {
-  color: white;
+  color: #fff;
+  width: auto;
   margin: 4px 4px 4px 4px;
   border: none;
   border-radius: 6px;
@@ -55,7 +56,8 @@ cursor: pointer;
   cursor: pointer;
 }
 .button2 {
-  color: white;
+  color: #fff;
+  width: auto;
   margin: 4px 4px 4px 4px;
   border: none;
   border-radius: 6px;
